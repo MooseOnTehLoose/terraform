@@ -1,5 +1,6 @@
 # Env Files
-*.env
+.env
+.DS_Store
 
 # Local .terraform directories
 .terraform/
