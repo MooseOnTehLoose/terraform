@@ -2,8 +2,10 @@
 
 Create a .env file in the directory with your Spectro API Key:
 
+```bash
 \# .env file  
 export TF_VAR_spectro_api_key="API_KEY"
+```
 
 Run a Terraform Init, load the .env file and deploy the example:
 
