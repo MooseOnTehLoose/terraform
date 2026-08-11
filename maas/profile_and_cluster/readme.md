@@ -3,7 +3,7 @@
 Create a .env file in the directory with your Spectro API Key:
 
 ```bash
-\# .env file  
+# .env file  
 export TF_VAR_spectro_api_key="API_KEY"
 ```
 
